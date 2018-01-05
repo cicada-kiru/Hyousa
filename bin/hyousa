@@ -1,0 +1,3 @@
+#!/bin/bash
+hyousa=${HYOUSA_HOME}
+java -classpath ${hyousa}/hyousa.jar hyousa.common.fs.DistributedFileSystem ${hyousa}/conf/hyousa.conf $*
