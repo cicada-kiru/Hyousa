@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash --login
 hyousa=${HYOUSA_HOME}
 jar=${hyousa}/hyousa.jar
 slaves=${hyousa}/conf/slaves
