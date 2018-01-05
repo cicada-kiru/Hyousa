@@ -20,3 +20,5 @@ A toy distributed file system
 执行start_all.sh脚本
 
 执行hyousa查看Usage
+
+执行stop_all.sh关闭所有节点
